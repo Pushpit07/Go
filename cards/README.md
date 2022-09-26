@@ -2,5 +2,5 @@
 
 To run the code-
 ```sh
-go run main.go
+go run main.go deck.go
 ```
